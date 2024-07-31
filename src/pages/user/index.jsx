@@ -6,6 +6,7 @@ import Options from "@/components/user/Options"
 export default function Home() {
   return (
     <>
+    user Home page
     <Hero />
    <Options />
     </>
